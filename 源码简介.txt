@@ -1,0 +1,6 @@
+android一个不错的图片浏览效果,本例子主要由ListView,GridView,混合ListView(类似微信朋友圈) 图片点击放大，以及图片浏览功能原型.加入了rebound,nineoldandroids,universalimageloader的封装库的使用。 项目来源：https://github.com/DavidWangTM/DWCorePhoto_Android 本项目主要有如下几点功能： 
+1.图片浏览放大缩小。 
+2.单一图片点击，放大效果，和缩放效果。 
+3.列表图片点击，放大效果，和缩放效果。 
+4.网格图片点击，放大效果，和缩放效果。 
+5.增加列表混合布局
